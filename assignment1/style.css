@@ -1,0 +1,40 @@
+.se{
+    background-color: orangered
+}
+.ip{
+    background-color: green;
+}
+.web{
+    background-color: gold;
+}
+.eng{
+    background-color: rgba(0, 0, 255, 0.76);
+}
+.com{
+    background-color: purple;
+}
+.java{
+    background-color: yellow;
+}
+.rts{
+    background-color: hotpink;
+}
+table, th, td{
+    border: 1px solid black;
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+}
+.one{
+    margin-left: 50px;
+}
+.two{
+    float: right;
+}
+h3{
+    text-align: center;
+}
+.empty{
+    padding: 10px;
+}
